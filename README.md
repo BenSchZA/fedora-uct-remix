@@ -9,7 +9,7 @@ The remix was created using the kickstart process, a good article explaing how t
 
 https://fedoraproject.org/wiki/How_to_create_and_use_a_Live_CD
 
-I have included the torrent file (which may or may not work... or you can dowload the .ks file and create the ISO on a Fedora linux system).
+I have included the torrent file (which may or may not work... or you can dowload the .ks file and create the ISO on a Fedora linux system). Some changes will need to be made to the .ks file, but the basics are there.
 
 The default Fedora Workstation distribution can be downloaded from here: https://getfedora.org/
 
