@@ -21,60 +21,94 @@ The default Fedora Workstation distribution can be downloaded from here: https:/
 
 #Preinstalled:
 
-##General
+###General
 meld 
+
 texlive-arara 
+
 texmaker  
+
 nano 
+
 anki
+
 transmission
+
 terminator
+
 hedgewars
 
-##Engineering
+###Engineering
 openscad
+
 kicad
+
 eclipse
+
 octave
+
 inkscape
 
-##Utility
+###Utility
 keepassx
+
 deja-dup
+
 youtube-dl
+
 dconf
+
 liveusb-creator
+
 git
+
 gparted
+
 wget
+
 shutter
+
 tlp
+
 powertop
+
 gnome-shell-extension-pomodoro
+
 spin-kickstarts
 
-##GUI
+###GUI
 gnome-tweak-tool
+
 plank
+
 redshift-gtk
 
-##Website
+###Website
 python-pelican
 
-##WhiteHat
+###WhiteHat
 testdisk
+
 aircrack-ng
+
 driftnet
+
 nmap
+
 wireshark-gnome
 
-##Dependant on RPMFusion
+###Dependant on RPMFusion
 moc
+
 ffmpeg
 
 #Included install files:
 FoxitReader
+
 TOR Browser
+
 GitKraken
+
 Dropbox
+
 WPS-Office
