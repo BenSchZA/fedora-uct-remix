@@ -1,6 +1,8 @@
 # fedora-uct-remix
 Fedora Linux distribution remixed for UCT engineering students. 
 
+![live-iso-screenshot](screenshot.png)
+
 It is a live image and must be written to a USB or CD/DVD using any of a number of available software options.
 
 eg. http://www.linuxliveusb.com/ for Windows or https://fedorahosted.org/liveusb-creator/ for Linux.
