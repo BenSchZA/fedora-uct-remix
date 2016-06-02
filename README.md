@@ -17,9 +17,7 @@ Some changes will need to be made to the .ks file, but the basics are there. The
 
 The default Fedora Workstation distribution can be downloaded from here: https://getfedora.org/
 
-**Software**
-
-#Preinstalled:
+#Preinstalled software:
 
 ###General
 meld 
