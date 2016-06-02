@@ -11,6 +11,8 @@ https://fedoraproject.org/wiki/How_to_create_and_use_a_Live_CD
 
 I have included the torrent file (which may or may not work... or you can dowload the .ks file and create the ISO on a Fedora linux system).
 
+The default Fedora Workstation distribution can be downloaded from here: https://getfedora.org/
+
 **Software**
 
 Preinstalled: 
