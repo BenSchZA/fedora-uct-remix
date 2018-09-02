@@ -17,9 +17,10 @@ Some changes will need to be made to the .ks file, but the basics are there. The
 
 The default Fedora Workstation distribution can be downloaded from here: https://getfedora.org/
 
-#Preinstalled software:
+# Preinstalled software:
 
-###General
+### General
+
 meld 
 
 texlive-arara 
@@ -36,7 +37,8 @@ terminator
 
 hedgewars
 
-###Engineering
+### Engineering
+
 openscad
 
 kicad
@@ -47,7 +49,8 @@ octave
 
 inkscape
 
-###Utility
+### Utility
+
 keepassx
 
 deja-dup
@@ -74,17 +77,20 @@ gnome-shell-extension-pomodoro
 
 spin-kickstarts
 
-###GUI
+### GUI
+
 gnome-tweak-tool
 
 plank
 
 redshift-gtk
 
-###Website
+### Website
+
 python-pelican
 
-###WhiteHat
+### WhiteHat
+
 testdisk
 
 aircrack-ng
@@ -95,12 +101,14 @@ nmap
 
 wireshark-gnome
 
-###Dependant on RPMFusion
+### Dependant on RPMFusion
+
 moc
 
 ffmpeg
 
-#Included install files:
+# Included install files:
+
 FoxitReader
 
 TOR Browser
